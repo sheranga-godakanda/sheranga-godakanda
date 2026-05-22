@@ -34,5 +34,5 @@ I’m a passionate full-stack developer focused on building scalable, high-perfo
 
 ## Connect With Me
 
-- Oue web site: [fsgrid.com](https://fsgrid.com)
+- Our web site: [fsgrid.com](https://fsgrid.com)
 - Email: godakandasheranga@gmail.com
