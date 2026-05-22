@@ -1,11 +1,8 @@
-# Hi 👋 I'm Sheranga Godakanda
+# Sheranga Godakanda
 
-### Full-Stack Web Developer | UI/UX Enthusiast | Entrepreneur
+### Full-Stack Developer | UI/UX Enthusiast | Tech Entrepreneur
 
-Passionate about building modern digital experiences and scalable business solutions.  
-I work with React, Next.js, Node.js, and modern web technologies to create fast, responsive, and user-friendly applications.
-
----
+I’m a passionate full-stack developer focused on building scalable, high-performance web applications and modern digital experiences. Experienced in technologies such as React, Next.js, Node.js, TypeScript, PostgreSQL, and Tailwind CSS, I enjoy developing solutions that combine clean design, efficient architecture, and seamless user experience. Constantly exploring new technologies and improving my craft through real-world projects and business solutions.
 
 ## Tech Stack
 
@@ -23,15 +20,13 @@ I work with React, Next.js, Node.js, and modern web technologies to create fast,
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
 
-  <!-- White GitHub Logo -->
   <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
 
-  <!-- Better Netlify Logo -->
+  <img src="https://skillicons.dev/icons?i=ps" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="45" height="45"/>
+
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45"/>
 </p>
 
@@ -39,5 +34,5 @@ I work with React, Next.js, Node.js, and modern web technologies to create fast,
 
 ## Connect With Me
 
-- Oue web site: fsgrid.com
+- Oue web site: [fsgrid.com](https://fsgrid.com)
 - Email: godakandasheranga@gmail.com
